@@ -52,9 +52,13 @@ The most challenging part of the project was Data Cleaning. The raw datasets con
 
 ## Main Stages
 1.  **Data Cleaning & Transformation (SQL):** Utilized PostgreSQL to process raw data. Employed Regular Expressions and `CASE` statements to transform inconsistent text dates (formats like DD.MM.YYYY, DD/MM/YY, etc.) into unified `timestamp` values.
+
 2.  **Cohort Preparation:** Calculated the acquisition month and the month difference (offset) between registration and subsequent events. Filtered out test events and NULL values.
+
 3.  **Aggregation:** Created a final aggregated table showing unique user counts per cohort, segmented by promo status.
+
 4.  **Visualization (Google Sheets):** Developed an interactive "triangular" cohort table.
+
 5.  **Analytics & Insights:** Applied Conditional Formatting (Heatmaps) to visualize Retention Rate trends and implemented Slicers for dynamic filtering between Promo and Organic segments.
 
 ## Functions and Techniques
