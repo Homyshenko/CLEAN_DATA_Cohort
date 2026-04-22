@@ -20,7 +20,7 @@
 
 3.  **Aggregation:** Сформував фінальну таблицю з кількістю унікальних користувачів для кожної когорти, розділену за типом залучення.
 
-4.  **Visualization (Google Sheets):** Побудував інтерактивну "трикутну" когортну таблицю.
+4.  **Visualization (Google Sheets):** Побудував інтерактивну когортну таблицю.
 
 5.  **Analytics & Insights:** Використав умовне форматування (Heatmap) для візуалізації Retention Rate та додав зрізи (Slicers) для миттєвої фільтрації між Promo та Organic групами.
 
@@ -63,7 +63,7 @@ The most challenging part of the project was Data Cleaning. The raw datasets con
 
 3.  **Aggregation:** Created a final aggregated table showing unique user counts per cohort, segmented by promo status.
 
-4.  **Visualization (Google Sheets):** Developed an interactive "triangular" cohort table.
+4.  **Visualization (Google Sheets):** Developed an interactive cohort table.
 
 5.  **Analytics & Insights:** Applied Conditional Formatting (Heatmaps) to visualize Retention Rate trends and implemented Slicers for dynamic filtering between Promo and Organic segments.
 
