@@ -33,8 +33,6 @@
 
 ---
 
-### 	 can Description (English version)
-
 # 📊 User Retention Analysis: Cohort Study (SQL & Google Sheets)
 
 Time-series analysis of user loyalty and Retention Rate using cohort analysis to compare the effectiveness of promotional campaigns versus organic user acquisition.
