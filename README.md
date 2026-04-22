@@ -24,6 +24,14 @@
 
 5.  **Analytics & Insights:** Використав умовне форматування (Heatmap) для візуалізації Retention Rate та додав зрізи (Slicers) для миттєвої фільтрації між Promo та Organic групами.
 
+## Візуалізація результатів
+
+Для наочного аналізу утримання користувачів було побудовано матрицю когортного аналізу з використанням теплової карти (Heatmap).
+
+![Cohort Analysis Heatmap](screenshot.png)
+
+[🔗 Відкрити інтерактивний звіт у Google Sheets]([https://docs.google.com/spreadsheets/d/ТВІЙ_ID_ФАЙЛУ/copy](https://docs.google.com/spreadsheets/d/11wracRGKmJgDLn-tnPNRJ3kunnjtNcUNB9xiQDytQDo/edit?usp=sharing))
+
 ## Функції та методи
 * **SQL:** CTE (Common Table Expressions), `REGEXP_REPLACE`, `SPLIT_PART`, `TO_DATE`, `COALESCE`, `JOIN`, `EXTRACT` (для розрахунку зсуву місяців).
 * **Google Sheets:** Pivot Tables (Зведені таблиці), Conditional Formatting (градієнт), Slicers, розрахункові поля для % Retention.
@@ -58,6 +66,15 @@ The most challenging part of the project was Data Cleaning. The raw datasets con
 4.  **Visualization (Google Sheets):** Developed an interactive "triangular" cohort table.
 
 5.  **Analytics & Insights:** Applied Conditional Formatting (Heatmaps) to visualize Retention Rate trends and implemented Slicers for dynamic filtering between Promo and Organic segments.
+
+## Data Visualization
+
+A cohort analysis matrix with a heatmap was developed to provide a visual representation of user retention trends.
+
+![Cohort Analysis Heatmap](screenshot.png)
+
+[🔗 Open Interactive Report in Google Sheets]([https://docs.google.com/spreadsheets/d/YOUR_FILE_ID/copy](https://docs.google.com/spreadsheets/d/11wracRGKmJgDLn-tnPNRJ3kunnjtNcUNB9xiQDytQDo/edit?usp=sharing))
+
 
 ## Functions and Techniques
 * **SQL:** CTE (Common Table Expressions), `REGEXP_REPLACE`, `SPLIT_PART`, `TO_DATE`, `LEFT JOIN`, Date Arithmetics (`EXTRACT` for month difference).
