@@ -30,7 +30,7 @@
 
 ![Cohort Analysis Heatmap](screenshot.png)
 
-[🔗 Відкрити інтерактивний звіт у Google Sheets]([https://docs.google.com/spreadsheets/d/ТВІЙ_ID_ФАЙЛУ/copy](https://docs.google.com/spreadsheets/d/11wracRGKmJgDLn-tnPNRJ3kunnjtNcUNB9xiQDytQDo/edit?usp=sharing))
+[🔗 Відкрити інтерактивний звіт у Google Sheets](https://docs.google.com/spreadsheets/d/11wracRGKmJgDLn-tnPNRJ3kunnjtNcUNB9xiQDytQDo/edit?usp=sharing)
 
 ## Функції та методи
 * **SQL:** CTE (Common Table Expressions), `REGEXP_REPLACE`, `SPLIT_PART`, `TO_DATE`, `COALESCE`, `JOIN`, `EXTRACT` (для розрахунку зсуву місяців).
@@ -73,7 +73,7 @@ A cohort analysis matrix with a heatmap was developed to provide a visual repres
 
 ![Cohort Analysis Heatmap](screenshot.png)
 
-[🔗 Open Interactive Report in Google Sheets]([https://docs.google.com/spreadsheets/d/YOUR_FILE_ID/copy](https://docs.google.com/spreadsheets/d/11wracRGKmJgDLn-tnPNRJ3kunnjtNcUNB9xiQDytQDo/edit?usp=sharing))
+[🔗 Open Interactive Report in Google Sheets](https://docs.google.com/spreadsheets/d/11wracRGKmJgDLn-tnPNRJ3kunnjtNcUNB9xiQDytQDo/edit?usp=sharing)
 
 
 ## Functions and Techniques
